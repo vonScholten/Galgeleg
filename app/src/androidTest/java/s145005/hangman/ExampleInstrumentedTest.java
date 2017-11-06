@@ -1,4 +1,4 @@
-package s145005.galgeleg_v1;
+package s145005.hangman;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("s145005.galgeleg_v1", appContext.getPackageName());
+        assertEquals("s145005.hangman", appContext.getPackageName());
     }
 }

@@ -1,4 +1,4 @@
-package s145005.galgeleg_v1;
+package s145005.hangman;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

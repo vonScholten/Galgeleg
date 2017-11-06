@@ -1,4 +1,4 @@
-package s145005.galgeleg_v1;
+package s145005.hangman;
 
 import java.io.BufferedReader;
 import java.io.IOException;

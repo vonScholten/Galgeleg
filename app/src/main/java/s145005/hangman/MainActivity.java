@@ -1,4 +1,4 @@
-package s145005.galgeleg_v1;
+package s145005.hangman;
 
 import android.content.Intent;
 import android.support.v7.app.AlertDialog;

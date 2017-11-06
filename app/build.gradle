@@ -4,7 +4,7 @@ android {
     compileSdkVersion 25
     buildToolsVersion '26.0.2'
     defaultConfig {
-        applicationId "s145005.galgeleg_v1"
+        applicationId "s145005.hangman"
         minSdkVersion 23
         targetSdkVersion 25
         versionCode 1
